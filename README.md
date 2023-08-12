@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Shiluo (aka Lostpart), currently Master's Computer Science student at University of California San Diego, intern at AWS 
 
-![Shiluo's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lostpart&count_private=true)
+<!-- ![Shiluo's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lostpart&count_private=true) -->
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
