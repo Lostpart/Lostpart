@@ -1,5 +1,7 @@
 ## Hi there 👋
-I'm Shiluo (aka Lostpart), currently Master's Computer Science student at University of California San Diego, intern at AWS 
+I'm Shiluo (aka Lostpart), currently a Master's Computer Science student at the University of California San Diego and a former intern at AWS.
+
+Currently actively looking for full-time opportunities in Austin, TX and Dallas, TX.
 
 <!-- ![Shiluo's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lostpart&count_private=true) -->
 
